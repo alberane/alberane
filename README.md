@@ -1,6 +1,4 @@
 # Olá, eu sou Alberane! 👋
-
-[![Github Badge](https://img.shields.io/badge/-alberane-181717?style=flat-square&logo=Github&logoColor=white&link=https://github.com/alberane)](https://github.com/alberane)
 [![Linkedin Badge](https://img.shields.io/badge/-Alberane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alberane)](https://www.linkedin.com/in/alberane)
 
 ## Sobre mim
@@ -21,22 +19,8 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alberane&show_icons=true&theme=radical&line_height=27">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alberane&theme=radical&hide=html,css">
-</p>
-
----
-
 ## 💬 Vamos nos Conectar!
 
 - 📧 Email: [alberane@gmail.com](mailto:alberane@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/alberane)
-- 🌐 [About](https://sabout.me/alberane)
-
----
-
-⭐️ Curtiu? Dê uma estrela nos meus repositórios favoritos!
-
+- 🌐 [about.me](https://about.me/alberane)
