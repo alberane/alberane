@@ -38,6 +38,6 @@
 
 ## 💬 Vamos nos Conectar!
 
-- 📧 Email: [alberane@gmail.com](mailto:alberane@gmail.com)
+- 📧 Email: [alberanelucio@gmail.com](mailto:alberanelucio@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/alberane)
 - 🌐 [about.me](https://about.me/alberane)
