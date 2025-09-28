@@ -1,4 +1,4 @@
-# Olá, eu sou Alberane! 👋
+# Olá, eu sou Alberane!
 [![Linkedin Badge](https://img.shields.io/badge/-Alberane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alberane)](https://www.linkedin.com/in/alberane)
 
 ## Sobre mim
